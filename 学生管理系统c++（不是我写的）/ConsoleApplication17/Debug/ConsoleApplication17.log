@@ -1,0 +1,7 @@
+﻿  源.cpp
+g:\vs\consoleapplication17\consoleapplication17\源.cpp(74): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\vs\consoleapplication17\consoleapplication17\源.cpp(104): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+g:\vs\consoleapplication17\consoleapplication17\源.cpp(253): warning C4101: “no”: 未引用的局部变量
+g:\vs\consoleapplication17\consoleapplication17\源.cpp(456): warning C4101: “no”: 未引用的局部变量
+  ConsoleApplication17.vcxproj -> G:\vs\ConsoleApplication17\Debug\ConsoleApplication17.exe
+  ConsoleApplication17.vcxproj -> G:\vs\ConsoleApplication17\Debug\ConsoleApplication17.pdb (Full PDB)
