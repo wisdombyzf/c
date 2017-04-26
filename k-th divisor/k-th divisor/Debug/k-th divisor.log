@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\张帆\documents\visual studio 2015\projects\k-th divisor\k-th divisor\源.cpp(7): warning C4101: “c”: 未引用的局部变量
+  k-th divisor.vcxproj -> C:\Users\张帆\documents\visual studio 2015\Projects\k-th divisor\Debug\k-th divisor.exe
+  k-th divisor.vcxproj -> C:\Users\张帆\documents\visual studio 2015\Projects\k-th divisor\Debug\k-th divisor.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  源.cpp
+c:\users\张帆\documents\visual studio 2015\projects\c语言文件\project6\源.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\张帆\documents\visual studio 2015\projects\c语言文件\project6\源.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\张帆\documents\visual studio 2015\projects\c语言文件\project6\源.cpp(23): warning C4101: “read”: 未引用的局部变量
+  Project6.vcxproj -> C:\Users\张帆\Documents\Visual Studio 2015\Projects\C语言文件\Debug\Project6.exe
+  Project6.vcxproj -> C:\Users\张帆\Documents\Visual Studio 2015\Projects\C语言文件\Debug\Project6.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\vs\解数独\project4\源.cpp(94): warning C4715: “DFS”: 不是所有的控件路径都返回值
+  Project4.vcxproj -> G:\vs\解数独\Debug\Project4.exe
+  Project4.vcxproj -> G:\vs\解数独\Debug\Project4.pdb (Partial PDB)

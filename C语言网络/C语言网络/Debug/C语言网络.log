@@ -1,0 +1,5 @@
+﻿  源.cpp
+g:\c_c++\c语言网络\c语言网络\myhttp.h(95): warning C4101: “header”: 未引用的局部变量
+g:\c_c++\c语言网络\c语言网络\myhttp.h(95): warning C4101: “buf”: 未引用的局部变量
+  C语言网络.vcxproj -> G:\c_c++\C语言网络\Debug\C语言网络.exe
+  C语言网络.vcxproj -> G:\c_c++\C语言网络\Debug\C语言网络.pdb (Partial PDB)
